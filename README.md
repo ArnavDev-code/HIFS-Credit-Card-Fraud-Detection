@@ -55,14 +55,8 @@ Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
-## 📌 Future Enhancements
-- Deploy using FastAPI / Flask for real-time inference
-- Add explainability with SHAP
-- Integrate streaming data (Kafka or Spark)
-
----
-
 ## 👤 Author
 **Arnav Nigam**  
 VIT Bhopal University  
 2025
+
